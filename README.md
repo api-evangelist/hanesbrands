@@ -1,11 +1,35 @@
-# Hanesbrands
+# Hanesbrands (hanesbrands)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Hanesbrands.
+Hanesbrands is a global consumer apparel company designing, manufacturing, and selling everyday basic apparel under brands including Hanes, Champion, Bali, Maidenform, and Bonds. In 2025 Hanesbrands was acquired by Gildan.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hanesbrands/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
+
+## Tags
+
+- Apparel, Consumer Goods, Retail
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Check back for updates.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.hanesbrands.com)
+- [Parent Company](https://gildancorp.com/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
