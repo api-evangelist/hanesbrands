@@ -18,6 +18,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/hanesbrands
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hanesbrands-inc-
   - type: Website
     url: https://www.hanesbrands.com
   - type: Parent Company
