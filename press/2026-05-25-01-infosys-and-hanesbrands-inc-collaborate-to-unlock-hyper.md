@@ -1,7 +1,9 @@
 ---
 title: Infosys and HanesBrands Inc. Collaborate to Unlock Hyper ...
 url: https://www.prnewswire.com/news-releases/infosys-and-hanesbrands-inc-collaborate-to-unlock-hyper-productivity-and-ai-driven-efficiency-302553903.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hanesbrands" press release artificial intelligence'
 position: 1
 source: serpapi-google
