@@ -1,4 +1,4 @@
-# Hanesbrands (hanesbrands)
+# Hanesbrands
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,36 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hanesbrands is a global consumer apparel company designing, manufacturing, and selling everyday basic apparel under brands including Hanes, Champion, Bali, Maidenform, and Bonds. In 2025 Hanesbrands was acquired by Gildan.
+Hanesbrands is a global consumer apparel company designing, manufacturing, and selling everyday basic apparel under brands including Hanes, Champion, Bali, Maidenform, and Bonds. In 2025 Hanesbrands was acquired by Gildan, with both companies continuing to operate as a combined apparel leader.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hanesbrands/refs/heads/main/apis.yml)
+**Areas:** Apparel · Consumer Goods · Retail · Fortune 500
 
-## Scope
+## Hanesbrands on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Hanesbrands is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hanesbrands/](https://apis.io/providers/hanesbrands/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Apparel, Consumer Goods, Retail
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Hanesbrands Domain Security](https://apis.io/security/hanesbrands/hanesbrands-domain-security/)
 
-No public APIs have been documented yet. Check back for updates.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.hanesbrands.com)
-- [Parent Company](https://gildancorp.com/)
+- [Blog](https://gildancorp.com/en/media/news/)
+- [GitHub](https://github.com/hanesbrands)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hanesbrands/](https://apis.io/providers/hanesbrands/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hanesbrands: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hanesbrands/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
